@@ -1,12 +1,16 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
 
 
 body {
-    background: linear-gradient(yellow,#00000077);
+    background-image: linear-gradient(yellow 30%,#00000077 70%);
+    
     color: #bb1414;
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Fascinate Inline';
     text-align: center;
+    padding-bottom: 800px;
+    font-size: 50px;
+    
 }
 
 
